@@ -1,9 +1,9 @@
 package atividade02;
 
 class ListaDupla {
-    private No inicio;
-    private No fim;
-    private int tamanho;
+    No inicio;
+    No fim;
+    int tamanho;
 
     public ListaDupla() {
         this.inicio = null;
@@ -125,3 +125,4 @@ class ListaDupla {
         System.out.println();
     }
 }
+
