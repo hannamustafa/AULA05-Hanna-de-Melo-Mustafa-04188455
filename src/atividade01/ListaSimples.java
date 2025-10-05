@@ -1,8 +1,8 @@
 package atividade01;
 
 public class ListaSimples {
-    private No inicio;
-    private int tamanho;
+    No inicio;
+    int tamanho;
 
     public ListaSimples() {
         this.inicio = null;
@@ -105,4 +105,5 @@ public class ListaSimples {
         }
         System.out.println();
     }
+
 }
